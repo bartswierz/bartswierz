@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bart Swierzynski, I'm currently a DePaul University student and anticipating completion of my B.A. in Computer Science in the fall of 2022. During my degree, I was able to get an understanding of various programming languages such as: Python, Java, C, C++, Scala, Scheme, Lisp, and mySQL. While I took my first steps into the programming world with Python, I consider Java as my main language. With that said, I am actively working on improving my proficiency in Java. 
+- 👋 Hi, I’m Bart Swierzynski, I'm currently a DePaul University student and anticipating completion of my B.S. in Computer Science in the Fall of 2022. During my degree, I was able to get an understanding of various programming languages such as: Python, Java, C, C++, Scala, Scheme, Lisp, and mySQL. While I took my first steps into the programming world with Python, I consider Java as my main language. With that said, I am actively working on improving my proficiency in Java. 
 
 - 👀 I’m interested in learning about JavaScript, TypeScript, and React.
 
