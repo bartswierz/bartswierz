@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in learning about JavaScript, TypeScript, and React.
 
-- 🌱 Hobbies: Car Enthusiast, Hiking, Kayaking
+- 🌱 Hobbies: Car Enthusiast, Hiking
 
 - 🌱 I’m currently working on:
    - Improving my understanding of Java concepts to add additional tools to bring my projects to life. 
