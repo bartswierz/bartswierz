@@ -12,7 +12,7 @@
 - 🌱 I’m currently working on:
    - Improving my understanding of Java concepts to add additional tools to bring my projects to life. 
    - Investing freetime into LeetCode.
-   - My current project idea brings out my love of cars with the design structure of the program almost nearly complete. 
+   - My current project idea brings out my love of cars with the design structure of the program nearly complete. 
 
 - 💞️ I'm currently learning: 
   - I'm learning JavaScript on my own time alongside my current courses.
