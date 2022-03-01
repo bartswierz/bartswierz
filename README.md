@@ -1,13 +1,18 @@
 - 👋 Hi, I’m Bart Swierzynski, I'm currently a DePaul University student and anticipating completion of my B.S. in Computer Science in the Fall of 2022. During my degree, I was able to get an understanding of various programming languages such as: Python, Java, C, C++, Scala, Scheme, Lisp, and mySQL. While I took my first steps into the programming world with Python, I consider Java as my main language. With that said, I am actively working on improving my proficiency in Java. 
 
-- 👀 I’m interested in learning about JavaScript, TypeScript, and React.
+- 👀 I’m interested in learning: 
+   - JavaScript 
+   - TypeScript 
+   - and React
 
-- 🌱 Hobbies: Car Enthusiast, Hiking
+- 🌱 Hobbies: 
+   - Car Enthusiast 
+   - Hiking
 
 - 🌱 I’m currently working on:
    - Improving my understanding of Java concepts to add additional tools to bring my projects to life. 
    - Investing freetime into LeetCode.
-   - My current project idea brings out my love of cars with the structure of the program almost ready to begin. 
+   - My current project idea brings out my love of cars with the design structure of the program almost nearly complete. 
 
 - 💞️ I'm currently learning: 
   - I'm learning JavaScript on my own time alongside my current courses.
