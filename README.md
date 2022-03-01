@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning: 
    - JavaScript 
    - TypeScript 
-   - and React
+   - React
 
 - 🌱 Hobbies: 
    - Car Enthusiast 
@@ -15,8 +15,8 @@
    - My current project idea brings out my love of cars with the design structure of the program nearly complete. 
 
 - 💞️ I'm currently learning: 
-  - I'm learning JavaScript on my own time alongside my current courses.
-  - Java(OOP) - Design Patterns, SOLID Principles, Four basic principles of OOP
+  - I'm learning JavaScript in my free time alongside my current courses.
+  - Better understanding for: Java(OOP) - Design Patterns, SOLID Principles, Four basic principles of OOP
 
 - 📫 How to reach me ...
 
