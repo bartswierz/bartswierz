@@ -24,7 +24,9 @@
 - 📫 How to reach me ...
 
 
-![image](https://user-images.githubusercontent.com/100662080/158490653-3e05fb1c-d28c-41a2-a14c-bf4cd81cac61.png)
+I have worked with:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+
 
 
 <!---
