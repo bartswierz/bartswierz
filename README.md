@@ -1,21 +1,23 @@
-- 👋 Hi, I’m Bart Swierzynski, I'm currently a DePaul University student and anticipating completion of my B.S. in Computer Science in the Fall of 2022. During my degree, I was able to get an understanding of various programming languages such as: Python, Java, C, C++, Scala, Scheme, Lisp, and mySQL. While I took my first steps into the programming world with Python, I consider Java as my main language. With that said, I am actively working on improving my proficiency in Java. 
+- 👋 Hi, I’m Bart Swierzynski, I'm currently a DePaul University student and anticipating completion of my B.S. in Computer Science in the Fall of 2022. During my degree, I was able to get an understanding of various programming languages such as: Python, Java, C, C++, Scala, Scheme, Lisp, and mySQL. While I took my first steps into the programming world with Python, I am most comfortable in Java. Recently, I have grown a liking to web development on my spare time. I am really enjoying learning the fundementals of HTML and CSS. I love to build things, so being able to see a webpage come to life is amazing. 
 
 - 👀 I’m interested in learning: 
-   - JavaScript 
-   - TypeScript 
+   - HTML
+   - CSS
+   - JavaScript
    - React
 
 - 🌱 Hobbies: 
    - Car Enthusiast 
    - Hiking
+   - Occassional gaming
 
 - 🌱 I’m currently working on:
-   - Improving my understanding of Java concepts to add additional tools to bring my projects to life. 
-   - Investing freetime into LeetCode.
-   - My current project idea brings out my love of cars with the design structure of the program nearly complete. 
-
+   - I have java project in mind that brings out my love of cars with the design structure of the program nearly complete. 
+   - Ideas for my first personal website regarding content and layout.
+   - Ideas for creating a webpage for a family friend.
+ 
 - 💞️ I'm currently learning: 
-  - I'm learning JavaScript in my free time alongside my current courses.
+  - The fundementals of HTML and CSS. Once I have a good grasp, I will move onto JavaScript then React.
   - Better understanding for: Java(OOP) - Design Patterns, SOLID Principles, Four basic principles of OOP
 
 - 📫 How to reach me ...
