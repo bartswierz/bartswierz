@@ -24,10 +24,6 @@
 - 📫 How to reach me ...
 
 
-I have worked with:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-
-
 
 <!---
 bartswierz/bartswierz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
