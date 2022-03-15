@@ -24,6 +24,9 @@
 - 📫 How to reach me ...
 
 
+![image](https://user-images.githubusercontent.com/100662080/158490653-3e05fb1c-d28c-41a2-a14c-bf4cd81cac61.png)
+
+
 <!---
 bartswierz/bartswierz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
