@@ -23,7 +23,8 @@
 
 - 📫 How to reach me ...
 
-
+<!--- Preferred Languages and Tools: Above languages and tools here: Java, HTML, CSS, Visual Studio Code, IntellijIdea--->
+<!--- General Understanding of languages and tools: Above languages and tools here--->
 
 <!---
 bartswierz/bartswierz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
