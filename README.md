@@ -16,10 +16,9 @@
    - Adding detailed ReadMe sections for my projects.
  
 - 💞️ I'm currently learning: 
-  - Advanced JavaScript through a udemy course and applying what I learn into my personal projects to create challenging projects what will increase my knowledge on          becoming better with JavaScript.
+  - Advanced JavaScript and applying what I learn through building challenging personal projects to create that will deepen my knowledge on modern JavaScript.
   - Becoming better with bootstrap through bootstrap's documentation and implementation into my pizzeria project
   
-
 - 📫 How to reach me ...
 Email: bartswierz.github@gmail.com
 
