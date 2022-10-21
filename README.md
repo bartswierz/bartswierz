@@ -9,7 +9,7 @@
    - Occassional gaming
 
 - 🌱 I’m currently working on:
-   - Creating a React project regarding hiring bots. This project is to test my knowledge from my online React course with topics such as working with API, useState, and useContext.
+   - Creating a React project that allows employers an easy method to hire robots. The purpose of this project is to test my knowledge from my online React course covering topics such as: working with API, useState, useContext, and more.
  
 - 💞️ I'm currently learning: 
   - Taking a complete beginner to expert React course on Udemy(Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL). I will finish this course to the end and then overhaul my portfolio and projects with React.
