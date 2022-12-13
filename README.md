@@ -15,7 +15,7 @@
    - An E-Commerce clothing site(https://alpha-clothing.netlify.app/) with React. 
  
 - 💞️ I'm currently learning: 
-  - Learning more React by building my E-commerce site. Currently have built the products, dynamic cart utilizing Contexts, and a work-in-progress checkout process that I am adding more too. My next task on the list is learning how to integrate account authentication using google authenticate along with Firebase for account and product storage.
+  - Learning more React by building my E-commerce site. Currently have built the products, dynamic cart utilizing Contexts, and a work-in-progress checkout process that I am adding more to. My next task on the list is learning how to integrate account authentication using google authentication along with Firebase for database storage.
   
 - 📫 How to reach me ...
 Email: bartswierzynski.github@gmail.com
