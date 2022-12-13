@@ -1,21 +1,24 @@
-- 👋 Hi, I’m Bart, I'm a senior at DePaul University anticipating completion of my B.S. in Computer Science in the Summer of 2023. During my degree, I was able to get an intermediate understanding of various programming languages exposing to me a large area of programming. I have also taken a few courses regarding mySQL that have been very beneficial for my understanding of relational databases. I feel blessed for my experiences because it let me hone in one the area I want to specialize in. I am passionate about front end web development and have been putting all my free time into getting a deeper understanding on React. My interest in learning web development, alongside my courses at DePaul, led me to using online resources such as MDN Docs, udemy courses, blogs, and whatever else I can get my hands on to become better. To prevent myself from falling into an unendless cycle of tutorials, I made it a point to finish my udemy courses start to finish and then test my knowledge through personal projects. By putting away the videos during my projects, I was able to struggle but learn from my mistakes resulting in a higher understanding of the material. This approach made it very beneficial to me as I learn best from working on personal projects over tutorials and lectures. 
+- 👋 Hi, I’m Bart, I'm a senior at DePaul University anticipating completion of my B.S. in Computer Science in the Spring of 2023. During my degree, I was able to get a good understanding of various programming languages exposing to me a large area of programming. Getting hands on experience with different languages allowed me to find my choice of specialization and that is Web Development. I am passionate about front end web development and have been putting all my free time into getting a deeper understanding on React. To prevent falling into tutorial hell, I'm learning by building personal projects based around things I enjoy and that has fueled my motivation to keep going month after month. My github repository is only growing, and with decently sized projects at that. My latest project is building a scalable E-commerce site(Alpha Clothing) utilizing React. 
 
 - 👀 I’m interested in learning: 
-   - React
+   - NodeJS
+   - Express
+   - Firebase
 
 - 🌱 Hobbies: 
    - Car Enthusiast 
    - Hiking
+   - Kayaking
    - Occassional gaming
 
 - 🌱 I’m currently working on:
-   - Creating a React project that allows employers an easy method to hire robots. The purpose of this project is to test my knowledge from my online React course covering topics such as: working with API, useState, useContext, and more.
+   - An E-Commerce clothing site(https://alpha-clothing.netlify.app/) with React. 
  
 - 💞️ I'm currently learning: 
-  - Taking a complete beginner to expert React course on Udemy(Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL). I will finish this course to the end and then overhaul my portfolio and projects with React.
+  - Learning more React by building my E-commerce site. Currently have built the products, dynamic cart utilizing Contexts, and a work-in-progress checkout process that I am adding more too. My next task on the list is learning how to integrate account authentication using google authenticate along with Firebase for account and product storage.
   
 - 📫 How to reach me ...
-Email: bartswierz.github@gmail.com
+Email: bartswierzynski.github@gmail.com
 
 <!---
 bartswierz/bartswierz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
