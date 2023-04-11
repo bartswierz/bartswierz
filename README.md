@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bart, I'm a senior at DePaul University anticipating completion of my B.S. in Computer Science in the Spring of 2023. During my degree, I was able to get a good understanding of various programming languages exposing to me a large area of programming. Getting hands on experience with different languages allowed me to find my choice of specialization and that is Web Development. I am passionate about front end web development and have been putting all my free time into getting a deeper understanding on React. To prevent falling into tutorial hell, I'm learning by building personal projects based around things I enjoy and that has fueled my motivation to keep going month after month. My github repository is only growing, and with decently sized projects at that. My latest project is building a scalable E-commerce site(Alpha Clothing) utilizing React. 
+- 👋 Hi, I’m Bart, I'm a recent graduade obtaining my bachelor's degree in Computer Science from DePaul University(Chicago, IL). Since January, I have been interning and have quickly gained leadership roles as a Frontend Co-Team Lead based on my work. Now, I work across multiple teams with great people who are helping communities all over the world. As a co-team lead, my responsibilities include task delegation and ensuring tasks are completed by the deadline and are of high quality. We are building some great applications that is intended to be used by communities to help with their Emotional Health. I love knowing my contributions as a Frontend Developer are going towards a great cause that will help people. I am passionate about front end web development and have been putting all my free time into getting a deeper understanding of the frontend elevating my skills. My github repository is only growing, and with decently sized projects at that. My latest project is building a scalable E-commerce site(Alpha Clothing) utilizing React. I am also learning TypeScript to further my knowledge working on the Frontend.
 
 - 👀 I’m interested in learning: 
    - NodeJS
@@ -12,10 +12,10 @@
 
 - 🌱 I’m currently working on:
    - An E-Commerce clothing site(https://alpha-clothing.netlify.app/) with React. 
+   - Improving my TypeScript skills
  
 - 💞️ I'm currently learning: 
-  - Learning more React by building my E-commerce site. Currently have built the products, dynamic cart utilizing Contexts, and a work-in-progress checkout process that I am adding more to. My next task on the list is learning how to integrate account authentication using google authentication along with Firebase for database storage.
-  - Added firebase into my e-commerce site, products are fetched correctly continuing on with refactoring code to remove the front-end product components and replace them with using the firebase DB instead.
+  - TypeScript self-learning through a Udemy Course and then take what I learned in the course into a new project or update one of my previous javascript projects into TypeScript.
   
 - 📫 How to reach me ...
 Email: bartswierz.github@gmail.com
