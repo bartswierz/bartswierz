@@ -15,7 +15,7 @@
    - Improving my TypeScript skills
  
 - 💞️ I'm currently learning: 
-  - TypeScript self-learning through a Udemy Course(Understanding TypeScript by Maximilian Schwarzmuller) and then take what I learned in the course into a new project or update one of my previous javascript projects into TypeScript.
+  - TypeScript self-learning through a Udemy Course("Understanding TypeScript" by Maximilian Schwarzmuller) and then take what I learned in the course into a new project or update one of my previous javascript projects into TypeScript.
   
 - 📫 How to reach me ...
 Email: bartswierz.github@gmail.com
