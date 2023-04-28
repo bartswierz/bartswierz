@@ -11,8 +11,9 @@
    - Occassional gaming
 
 - 🌱 I’m currently working on:
-   - An E-Commerce clothing site(https://alpha-clothing.netlify.app/) with React. 
+   - An E-Commerce clothing site(https://alpha-footwear.netlify.app/) with React. 
    - Improving my TypeScript skills
+   - Migrating my context state management to Redux utilizing Redux Toolkit
  
 - 💞️ I'm currently learning: 
   - TypeScript self-learning through a Udemy Course("Understanding TypeScript" by Maximilian Schwarzmuller) and then take what I learned in the course into a new project or update one of my previous javascript projects into TypeScript.
