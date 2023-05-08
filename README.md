@@ -16,7 +16,7 @@
    - Migrating my context state management to Redux utilizing Redux Toolkit
  
 - 💞️ I'm currently learning: 
-  - TypeScript self-learning through a Udemy Course("Understanding TypeScript" by Maximilian Schwarzmuller) and then take what I learned in the course into a new project or update one of my previous javascript projects into TypeScript.
+  - NodeJS and ExpressJS to build MERN stack projects.
   
 - 📫 How to reach me ...
 Email: bartswierz.github@gmail.com
