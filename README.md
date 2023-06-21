@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Bart, I'm a recent graduade with an Bachelor's Degree in Computer Science from DePaul University(Chicago, IL). Since January, I have been interning and have quickly gained leadership roles as a Frontend Co-Team Lead based on my work. I collaborate closely across teams(UI/UX Design, Data Science) with great people who are helping communities all over the world. As a co-team lead, my responsibilities include task delegation and ensuring tasks are completed by the deadline and are of high quality. I also take care of the weekly Front-end progress demonstrations to the founder, supervisors, and the Data Science team. We are building some great applications that is intended to be used by communities helping to improve their understanding of their emotional health. I love knowing my contributions as a Frontend Developer are going towards a great cause that will help people. 
+- 👋 Hi, I’m Bart, I'm a recent graduade with an Bachelor's Degree in Computer Science from DePaul University(Chicago, IL). Since January (2023), I have been working as a frontend developer and quickly gained a leadership role as a Frontend co-team lead based on my work within the first few weeks. I collaborate closely across teams(UI/UX Design, Data Science, and Stakeholders) with great people who are helping communities all over the world. As a co-team lead, my responsibilities include task delegation and ensuring tasks are completed by the deadline and of high quality. I also take care of the weekly Front-end progress demonstrations to stakeholders, UI/UX Design Leads, and Data Science team. We are building some great applications that is intended to be used by communities helping to improve their understanding of their emotional health. I love knowing my contributions as a Frontend Developer are going towards a great cause. 
 
 - 👀 I’m interested in learning: 
-   - TypeScript
-   - NodeJS
+   - Next.js
 
 - 🌱 Hobbies: 
    - Car Enthusiast 
@@ -10,13 +9,13 @@
    - Kayaking
    - Occassional gaming
 
-- 🌱 I’m currently working on:
-   - An E-Commerce clothing site(https://alpha-footwear.netlify.app/) with React/TypeScript. 
-   - Improving my TypeScript skills
-   - Migrating my context state management to Redux utilizing Redux Toolkit
+- 🌱 I’m currently working on improving:
+   - Next.js skills
+   - Tailwind CSS skills
+   - TypeScript skills
  
 - 💞️ I'm currently learning: 
-  - NodeJS and ExpressJS to build MERN stack projects.
+  - Next.js to build blazing fast Single Page Applications (SPA)
   
 - 📫 How to reach me ...
 Email: bartswierz.github@gmail.com
