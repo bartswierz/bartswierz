@@ -9,12 +9,12 @@
    - Kayaking
    - Occassional gaming
 
-- 🌱 I’m currently working on improving:
+- 👀 I’m currently working on improving:
    - Next.js skills
    - Tailwind CSS skills
    - TypeScript skills
  
-- 💞️ I'm currently learning: 
+- 🌱 I'm currently learning: 
   - Next.js to build blazing fast Single Page Applications (SPA)
   
 - 📫 How to reach me ...
