@@ -3,6 +3,7 @@
 - 👀 I’m interested in learning: 
    - Next.js
    - Jest (Unit Testing)
+   - GraphQL
 
 - 🌱 Hobbies: 
    - Car Enthusiast 
