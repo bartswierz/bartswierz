@@ -12,9 +12,10 @@
    - Occassional gaming
 
 - 👀 I’m currently working on improving:
-   - Next.js skills
-   - Tailwind CSS skills
-   - TypeScript skills
+   - Next.js
+   - Tailwind CSS
+   - TypeScript
+   - Building a large scalable Next.js Project - Repo:Game-Website & current state of the app is hosted on netlify: https://next-level-games.netlify.app/
  
 - 🌱 I'm currently learning: 
   - Next.js to build blazing fast Single Page Applications (SPA)
