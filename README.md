@@ -15,7 +15,8 @@
    - Next.js
    - Tailwind CSS
    - TypeScript
-   - Building a large scalable Next.js Project - Repo:Game-Website & current state of the app is hosted on netlify: https://next-level-games.netlify.app/
+   - Building a large scalable Next.js Project - Repository: Game-Website
+      - Current state of the app can be found here: https://next-level-games.netlify.app/
  
 - 🌱 I'm currently learning: 
   - Next.js to build blazing fast Single Page Applications (SPA)
