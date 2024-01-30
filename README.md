@@ -22,6 +22,7 @@
  
 - 🌱 I'm currently learning: 
   - Next.js to build blazing fast Single Page Applications (SPA)
+  - Vitest for Unit Testing 
   
 - 📫 How to reach me ...
 Email: bartswierz.github@gmail.com
