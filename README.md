@@ -2,7 +2,8 @@
 
 - 👀 I’m interested in learning: 
    - Next.js
-   - Vitest
+   - Vitest(Unit Testing, Intergration)
+   - Cypress (E2E Testing)
    - Zustand
    - React-Query
 
