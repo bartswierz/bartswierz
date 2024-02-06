@@ -14,16 +14,15 @@
    - Occassional gaming
 
 - 👀 I’m currently working on improving:
-   - Next.js
-   - Tailwind CSS
    - TypeScript
+   - Testing with Vitest & Cypress
    - Building a large scalable Next.js Project - Repository: Game-Website
       - Current state of the app can be found here: https://next-level-games.vercel.app/
    - Building a learning application for children ages 5-9 focusing on mathematics
  
 - 🌱 I'm currently learning: 
-  - Next.js to build blazing fast Single Page Applications (SPA)
-  - Vitest for Unit Testing 
+  - Vitest for Unit Testing & Integration Testing
+  - Cypress for End-to-End Testing
   
 - 📫 How to reach me ...
 Email: bartswierz.github@gmail.com
