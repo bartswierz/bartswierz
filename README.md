@@ -5,7 +5,7 @@
 - :briefcase: **Building Web Applications since 2022**
 - :scroll: **Bachelor's Degree in Computer Science** (DePaul University - Graduated March of 2023)
 - :raising_hand: Love to **teach** and **learn** from others
-- :collision: While I specialize in the **Front-End**, I still enjoy picking up **back-end technologies** to have a deeper understanding of the entire codebase
+- :collision: While I specialize in the **Front-End**, I still enjoy picking up **back-end technologies** to have a deep understanding of the entire stack
 - :red_car: Car enthusiast
 - :point_right: [Personal Portfolio Website](https://bartoszswierzynski.com/ "Visit My Portfolio Website")
 
