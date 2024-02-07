@@ -2,7 +2,9 @@
 
 **I'm Bart, a Front-End Developer (React.js & Next.js) who loves Web Development!**
 
-Passionate about crafting interactive and intuitive user experiences. In my web development journey, with almost **2 years** dedicated to honing my skills in front-end technologies, **I've led a 5-person team**, collaborated with multiple teams & stakeholders(UI/UX, Data Science, CTO, Founder), improved **task completion time and team efficiency by over 30%**, and **reduced product completion time by 2-3 weeks**. Having a **growth mindset and being proactive** is what allowed me to be successful in the role, I looked at any obstacles and challenges as an opportunity for learning.
+## 🚀 My Journey
+
+With almost **2 years** dedicated to honing my skills in **front-end technologies**, **I've led a 5-person team**, collaborated with multiple teams & stakeholders(UI/UX, Data Science, CTO, Founder), improved **task completion time and team efficiency by over 30%**, and **reduced product completion time by 2-3 weeks**. Having a **growth mindset and being proactive** is what allowed me to be successful in the role, I looked at any obstacles and challenges as an opportunity for learning.
 
 ## More Fun Info
 - :boom: **Front-End Developer** who loves to build Web Applications with **React.js**, **Next.js**, **TypeScript**, and **Tailwind CSS**
