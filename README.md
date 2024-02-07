@@ -3,9 +3,8 @@
 # About Me
 - :boom: I'm a <b>Front-End Developer</b>, I love to build Web Applications with <b>React.js</b>, <b>Next.js</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b>
 - :briefcase: <b>Building Web Applications since 2022</b>
-- :scroll: Bachelor's Degree in Computer Science (DePaul University - Graduated March of 2023)
+- :scroll: <b>Bachelor's Degree in Computer Science</b> (DePaul University - Graduated March of 2023)
 - :raising_hand: Love to <b>teach</b> and <b>learn</b> from others
-- :mag: Always finding ways to perfect my craft and not limiting myself to a handful of tools, if they will get the job done, i will learn them
 - :red_car: Car enthusiast
 - :point_right: [Personal Portofolio Website](https://bartoszswierzynski.com/ "Visit My Portfolio Website")
 
@@ -16,10 +15,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
 
 # 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bartosz-swierzynski)
-
-- 📫 How to reach me ...
-Email: bartswierz.github@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bartosz-swierzynski) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bartswierz.github@gmail.com)
 
 <!---
 bartswierz/bartswierz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
