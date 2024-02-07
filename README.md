@@ -1,14 +1,14 @@
 # Hi, I'm Bart :wave:
 
 # About Me
-- I'm a <b>Front-End Developer</b> who loves to build <b>React.js</b> and <b>Next.js</b> applications with <b>TypeScript</b>
+- :boom: I'm a <b>Front-End Developer</b> who loves to build <b>React.js</b> and <b>Next.js</b> applications with <b>TypeScript</b>
 - :heart: <b>Web Development</b> is life
 - :briefcase: <b>Building Web Applications since 2022</b> 
 - :raising_hand: Love to <b>teach</b> and <b>learn</b> from other developers
-- Always finding ways to perfect my craft and understanding the back-end
+- :star: Always finding ways to perfect my craft and understanding the back-end
 - :scroll: Bachelor's Degree in Computer Science (DePaul University - Graduated March of 2023)
 - :red_car: Car enthusiast
-- Personal Website
+- :point_right: Personal Website
 
 # 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NextJS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![React-Testing-Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
