@@ -2,9 +2,11 @@
 
 # About Me
 - I'm a <b>Front-End Developer</b> who loves to build <b>React.js</b> and <b>Next.js</b> applications with <b>TypeScript</b>
+- :heart: <b>Web Development</b> is life
+- :briefcase: <b>Building Web Applications since 2022</b> 
+- :raising_hand: Love to <b>teach</b> and <b>learn</b> from other developers
 - Always finding ways to perfect my craft and understanding the back-end
-- Big fan of TypeScript
-- Bachelor's Degree in Computer Science (DePaul University - Graduated March of 2023)
+- :scroll: Bachelor's Degree in Computer Science (DePaul University - Graduated March of 2023)
 - :red_car: Car enthusiast
 - Personal Website
 
