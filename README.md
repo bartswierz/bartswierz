@@ -24,7 +24,8 @@ With almost **2 years** dedicated to honing my skills in **front-end technologie
 ### Currently Learning
 - Vitest - Unit Testing & Integration Testing
 - Cypress - End-to-End Testing
-- Improving our JavaScript knowledge with CodeWars by going for higher ranks - See my progress here: <a href="https://www.codewars.com/users/BartCodes" target="_blank">BartCodes on CodeWars</a> RANK: 6 Kyu
+- Improving our JavaScript knowledge with CodeWars by going for higher ranks
+  - See my progress here: <a href="https://www.codewars.com/users/BartCodes" target="_blank">BartCodes on CodeWars</a> RANK: 6 Kyu
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bartosz-swierzynski) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bartswierz.github@gmail.com)
