@@ -14,6 +14,7 @@ With almost **2 years** dedicated to honing my skills in **front-end technologie
 - :collision: While I specialize in the **Front-End**, I still enjoy picking up **back-end technologies** to have a good understanding of the entire stack
 - :red_car: Car enthusiast
 - :point_right: [Personal Portfolio Website](https://bartoszswierzynski.com/ "Visit My Portfolio Website")
+- ![CodeWars Badge](https://www.codewars.com/users/BartCodes/badges/micro) Enhancing our JavaScript proficiency on Codewars to reinforce our fundamental skills
 
 ## 💻 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![React-Testing-Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -23,12 +24,12 @@ With almost **2 years** dedicated to honing my skills in **front-end technologie
 
 ### Currently Learning
 - Vitest - Unit Testing & Integration Testing
-- Cypress - End-to-End Testing
-- Improving our JavaScript knowledge with CodeWars by going for higher ranks
-  - See my progress here: <a href="https://www.codewars.com/users/BartCodes" target="_blank">BartCodes on CodeWars</a> RANK: 6 Kyu
+- Cypress/Playwright - End-to-End Testing
+- Improving our JavaScript knowledge with Codewars by going for higher ranks
+  - See my stats here: <a href="https://www.codewars.com/users/BartCodes/stats" target="_blank">BartCodes on CodeWars</a>
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bartosz-swierzynski) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bartswierz.github@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bartosz-swierzynski) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bartswierz.github@gmail.com) [![Codwars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/BartCodes/stats)
 
 <!---
 bartswierz/bartswierz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
