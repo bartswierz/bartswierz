@@ -1,6 +1,7 @@
 # Hi, there :wave:
 
-**I'm Bart, a Front-End Developer (React.js & Next.js) who loves Web Development!**
+**I'm Bart, a Front-End Developer (React.js & Next.js) who loves Web Development!** 
+- :point_right: [Personal Portfolio Website](https://bartoszswierzynski.com/ "Visit My Portfolio Website")
 
 ## 🚀 My Journey
 
@@ -15,7 +16,6 @@ Having a **growth mindset, being proactive, and being able to complete tasks wit
 - :raising_hand: Love to **teach** and **learn** from others
 - :collision: While I specialize in the **Front-End**, I still enjoy picking up **back-end technologies** to have a good understanding of the entire stack
 - :red_car: Car enthusiast
-- :point_right: [Personal Portfolio Website](https://bartoszswierzynski.com/ "Visit My Portfolio Website")
 - ![CodeWars Badge](https://www.codewars.com/users/BartCodes/badges/micro) Enhancing our JavaScript proficiency on Codewars to reinforce our fundamental skills
 
 ## 💻 Tech Stack
