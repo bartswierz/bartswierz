@@ -1,12 +1,6 @@
 # Hi, there :wave:
 
-**I'm Bart, a Front-End Developer (React.js & Next.js) who loves Web Development!** 
-- :point_right: [Personal Portfolio Website](https://bartoszswierzynski.com/ "Visit My Portfolio Website")
-👉 <a href="https://bartoszswierzynski.com/" target="_blank" rel="noopener noreferrer">
-Personal Portfolio Website
-</a>
-See some of my projects over the years on my portfolio! [Bartoszswierzynski.com](https://bartoszswierzynski.com/)
-[Visit My Portfolio](https://bartoszswierzynski.com/)
+**I'm Bart, a Full Stack Developer with a focus on front-end technologies who loves Web Development!** 
 
 ## 🚀 My Journey - 🌐 [My Portfolio](https://bartoszswierzynski.com/) 🔗
 
