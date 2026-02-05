@@ -2,10 +2,15 @@
 
 **I'm Bart, a Front-End Developer (React.js & Next.js) who loves Web Development!** 
 - :point_right: [Personal Portfolio Website](https://bartoszswierzynski.com/ "Visit My Portfolio Website")
+👉 <a href="https://bartoszswierzynski.com/" target="_blank" rel="noopener noreferrer">
+Personal Portfolio Website
+</a>
+See some of my projects over the years on my portfolio! [Bartoszswierzynski.com](https://bartoszswierzynski.com/)
+[Visit My Portfolio](https://bartoszswierzynski.com/)
 
-## 🚀 My Journey
+## 🚀 My Journey - 🌐 [My Portfolio](https://bartoszswierzynski.com/) 🔗
 
-With over **3 years** dedicated to honing my skills in **front-end technologies**. In my recent role at Manifest, I've independently managed four complex applications for the world's only 401(k) transfer solution on the market with thousands of monthly transactions. This role required taking ownership of the codebases and being proactive with picking up new technologies to deliver high-quality work. I've dramatically reduce weekly Sentry errors by around 50%, created a custom URL for an important partner, and added large features for the main applications. In another role, **I've co-led a 5-person team**, collaborated with multiple teams & stakeholders(UI/UX, Data Science, CTO, Founder), improved **task completion time and team efficiency by over 30%**, and **reduced product completion time by 2-3 weeks**. 
+With over **3 years** dedicated to honing my skills in **front-end technologies**. In my recent role at Manifest, I've independently managed four complex applications for the world's only 401(k) transfer solution on the market with thousands of monthly transactions. This role required taking ownership of the codebases and being proactive with picking up new technologies to deliver high-quality work. I've dramatically reduce weekly Sentry errors by around 50%, created a custom URL for an important partner, and added large features for the main applications. In another role, **I've co-led a 5-person team**, collaborated with multiple teams & stakeholders(UI/UX, Data Science, CTO, Founder), improved **task completion time and team efficiency by over 30%**, and **reduced product completion time by 2-3 weeks**. Feel free to take a look at some of these projects I have built over the years on my portfolio website!
 
 Having a **growth mindset, being proactive, and being able to complete tasks with little instructions** is what allowed me to be successful in these two roles, I looked at any obstacles and challenges as an opportunity for learning. You will often find me honing my craft mastering the front-end and also learning other technologies on the back-end to add to my set of tools.
 
